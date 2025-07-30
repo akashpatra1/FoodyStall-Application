@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173477352351",
+    "project_id": "foodystall-7b346",
+    "storage_bucket": "foodystall-7b346.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173477352351:android:094fbac6f5bdc643d6e3aa",
+        "android_client_info": {
+          "package_name": "com.example.foodystall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpKjKvn24qmyjKntqg34dko1TH7o9OKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
